@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="nz-team-shop-eureka-server" />
+        <module name="nz-team-shop-email" />
         <module name="nz-team-shop-config" />
         <module name="nz-team-shop-dependecies" />
         <module name="nz-team-shop-provider" />
@@ -19,6 +20,7 @@
       <module name="nz-team-shop-config" target="1.8" />
       <module name="nz-team-shop-consumer" target="1.8" />
       <module name="nz-team-shop-dependecies" target="1.8" />
+      <module name="nz-team-shop-email" target="1.8" />
       <module name="nz-team-shop-eureka-server" target="1.8" />
       <module name="nz-team-shop-provider" target="1.8" />
     </bytecodeTargetLevel>
@@ -28,6 +30,7 @@
       <module name="nz-team-shop-config" options="-parameters" />
       <module name="nz-team-shop-consumer" options="-parameters" />
       <module name="nz-team-shop-dependecies" options="-parameters" />
+      <module name="nz-team-shop-email" options="-parameters" />
       <module name="nz-team-shop-eureka-server" options="-parameters" />
       <module name="nz-team-shop-provider" options="-parameters" />
     </option>

@@ -1,12 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc160cbc-a6b0-44db-ba6f-75c8ad984a7c" name="Default Changelist" comment="" />
+    <list default="true" id="fc160cbc-a6b0-44db-ba6f-75c8ad984a7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/NZ-Team.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_guava_28_2_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-common/nz-team-shop-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/src/main/java/com/qf/NzTeamShopConfigApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-config/src/test/java/com/qf/NzTeamShopConfigApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-consumer/nz-team-shop-consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-dependecies/nz-team-shop-dependecies.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-dependecies/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/src/main/java/com/qf/NzTeamShopEurekaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-eureka-server/src/test/java/com/qf/NzTeamShopEurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-provider/nz-team-shop-provider.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nz-team-shop-provider/pom.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -16,13 +88,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1YtbD0dnwVKmZ2P83HZdsOPlxLq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="D:/学习/逆战班资料/11项目/代码/代码/qf-spring-cloud-netflix-demo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,6 +128,13 @@
     <configuration name="NzTeamShopConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="nz-team-shop-config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.NzTeamShopConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NzTeamShopEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nz-team-shop-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.NzTeamShopEmailApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,10 +179,22 @@
       <option name="presentableId" value="Default" />
       <updated>1583764714246</updated>
       <workItem from="1583764716938" duration="12054000" />
+      <workItem from="1583807567885" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
