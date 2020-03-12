@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a77d9cc7-8883-48d7-8753-4955ec0c8e8e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yy3ehoZEqadRI2Pxt3ll9KCTGr" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583776921868" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-cart/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.qf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-mapper\src\main\java\com\qf\mapper" />
+      <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-basic\src\main\java\com\qf" />
+      <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-basic\src\main\java" />
+      <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-entity\src\main\java\com\qf\entity" />
+      <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-mapper\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NzTeamShopCartApplication">
+    <configuration name="NzTeamShopCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nz-team-shop-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.NzTeamShopCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NzTeamShopConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nz-team-shop-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.NzTeamShopConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NzTeamShopConsumerCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nz-team-shop-consumer-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.NzTeamShopConsumerCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NzTeamShopEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nz-team-shop-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.NzTeamShopEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a77d9cc7-8883-48d7-8753-4955ec0c8e8e" name="Default Changelist" comment="" />
+      <created>1583764759323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583764759323</updated>
+      <workItem from="1583764763729" duration="1436000" />
+      <workItem from="1583767281305" duration="1171000" />
+      <workItem from="1583768484680" duration="524000" />
+      <workItem from="1583769026412" duration="2689000" />
+      <workItem from="1583772336650" duration="3074000" />
+      <workItem from="1583776992162" duration="118000" />
+      <workItem from="1583777138938" duration="137000" />
+      <workItem from="1583901106071" duration="22201000" />
+      <workItem from="1583941371562" duration="1711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

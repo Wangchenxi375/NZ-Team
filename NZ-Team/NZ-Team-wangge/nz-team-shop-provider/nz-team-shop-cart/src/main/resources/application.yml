@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: cart-service
+
+  redis:
+    host: 192.168.1.10
+    port: 6379
+    password:
+    jedis:
+      pool:
+        max-active: 20
+
+server:
+  port: 8763
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    lease-renewal-interval-in-seconds: 60
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/qf-v6?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+
+
+
