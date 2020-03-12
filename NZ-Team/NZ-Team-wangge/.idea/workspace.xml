@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a77d9cc7-8883-48d7-8753-4955ec0c8e8e" name="Default Changelist" comment="" />
+    <list default="true" id="a77d9cc7-8883-48d7-8753-4955ec0c8e8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/interceptor/AuthInterceptor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/resources/templates/shopcart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-common/nz-team-shop-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-common/nz-team-shop-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-cart/src/main/java/com/qf/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-cart/src/main/java/com/qf/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-cart/src/main/java/com/qf/service/IcartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-cart/src/main/java/com/qf/service/IcartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-cart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-cart/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/service/IcartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/service/IcartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/service/impl/CartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/java/com/qf/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +45,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1Yy3ehoZEqadRI2Pxt3ll9KCTGr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -43,7 +58,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583776921868" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-cart/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,12 +73,16 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.qf" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.interceptor" />
+      <recent name="com.qf.config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr Wang\Desktop\项目\NZ-Team\NZ-Team-wangge\nz-team-shop-provider\nz-team-shop-cart\src\main\resources" />
+      <recent name="C:\Users\Mr Wang\Desktop\项目\NZ-Team\NZ-Team-wangge\nz-team-shop-consumer\nz-team-shop-consumer-cart\src\main\resources" />
       <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-mapper\src\main\java\com\qf\mapper" />
       <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-basic\src\main\java\com\qf" />
       <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-basic\src\main\java" />
-      <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-entity\src\main\java\com\qf\entity" />
-      <recent name="C:\Users\Mr Wang\Desktop\项目资料\NZ-Team\NZ-Team-wangge\nz-team-shop-common\nz-team-shop-mapper\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -127,10 +146,22 @@
       <workItem from="1583777138938" duration="137000" />
       <workItem from="1583901106071" duration="22201000" />
       <workItem from="1583941371562" duration="1711000" />
+      <workItem from="1583997471688" duration="6053000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @FeignClient(value = "cart-service")
@@ -39,5 +40,7 @@ public interface IcartService {
     @RequestMapping("/show")
     public ResultBean showCart(@CookieValue(name=CookieConstant.USER_CART,required = false)String uuid);
 
-
+    @RequestMapping("/merge")
+    public ResultBean merge(@CookieValue(name = CookieConstant.USER_CART,required = false)String uuid,
+                            HttpServletRequest request, HttpServletResponse response);
     }

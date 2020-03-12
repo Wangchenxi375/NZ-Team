@@ -10,4 +10,6 @@ public interface IcartService {
     ResultBean update(String uuid, Long productId, int count);
 
     ResultBean showCart(String uuid);
+
+    ResultBean merge(String uuid, String userId);
 }

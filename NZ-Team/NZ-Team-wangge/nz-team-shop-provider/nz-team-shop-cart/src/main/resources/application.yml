@@ -3,7 +3,7 @@ spring:
     name: cart-service
 
   redis:
-    host: 192.168.1.10
+    host: 192.168.1.13
     port: 6379
     password:
     jedis:
@@ -21,7 +21,7 @@ eureka:
     lease-renewal-interval-in-seconds: 60
 
   datasource:
-    url: jdbc:mysql://localhost:3306/qf-v6?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://localhost:3306/my-project-v1?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
     username: root
     password: root
 

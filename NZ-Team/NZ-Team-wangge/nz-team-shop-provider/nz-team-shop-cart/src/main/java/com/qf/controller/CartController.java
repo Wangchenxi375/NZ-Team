@@ -2,19 +2,18 @@ package com.qf.controller;
 
 import com.qf.constant.CookieConstant;
 import com.qf.dto.ResultBean;
+import com.qf.entity.TUser;
 import com.qf.service.IcartService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.CookieValue;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.UUID;
 
-@Controller
+@RestController
 public class CartController {
     @Autowired
     private IcartService cartService;
@@ -105,6 +104,36 @@ public class CartController {
         return cartService.showCart(uuid);
 
     }
+    /**
+     * 合并两种状态下的购物车
+     * @param uuid
+     * @param request
+     * @param response
+     * @return
+     */
+    @RequestMapping("/merge")
+    public ResultBean merge(@CookieValue(name = CookieConstant.USER_CART,required = false)String uuid,
+                            HttpServletRequest request, HttpServletResponse response){
+        //获得uuid,和uid
+        TUser user = (TUser) request.getAttribute("user");
+        String userId = null;
+        if(user!=null){
+            userId = user.getId().toString();
+        }
+
+
+        //做完合并以后，要把未登录状态下的购物车清空。在清空cookie
+        Cookie cookie = new Cookie(CookieConstant.USER_CART,"");
+        cookie.setPath("/");
+        cookie.setMaxAge(0);
+        response.addCookie(cookie);
+
+
+        return cartService.merge(uuid,userId);
+
+    }
+
+
 
 
 }

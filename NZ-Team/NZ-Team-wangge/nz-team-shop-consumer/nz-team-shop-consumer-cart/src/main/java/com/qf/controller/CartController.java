@@ -8,10 +8,12 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CookieValue;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@Controller
+@RestController
 public class CartController {
     @Autowired
     private IcartService icartService;
@@ -48,9 +50,18 @@ public class CartController {
     public ResultBean showCart(@CookieValue(name=CookieConstant.USER_CART,required = false)String uuid){
         return icartService.showCart(uuid);
     }
-
-
-
+    /**
+     * 合并两种状态下的购物车
+     * @param uuid
+     * @param request
+     * @param response
+     * @return
+     */
+    @RequestMapping("/merge")
+    public ResultBean merge(@CookieValue(name = CookieConstant.USER_CART,required = false)String uuid,
+                            HttpServletRequest request, HttpServletResponse response){
+        return icartService.merge(uuid, request, response);
+    }
 
 
 
