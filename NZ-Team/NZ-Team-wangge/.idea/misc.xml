@@ -14,6 +14,8 @@
         <option value="$PROJECT_DIR$/nz-team-shop-provider/pom.xml" />
         <option value="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-cart/pom.xml" />
         <option value="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/nz-team-shop-provider/nz-team-shop-search/pom.xml" />
+        <option value="$PROJECT_DIR$/nz-team-shop-consumer/nz-team-shop-consumer-search/pom.xml" />
       </list>
     </option>
   </component>

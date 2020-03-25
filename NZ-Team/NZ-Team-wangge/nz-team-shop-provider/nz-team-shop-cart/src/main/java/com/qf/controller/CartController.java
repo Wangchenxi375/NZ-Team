@@ -5,6 +5,7 @@ import com.qf.dto.ResultBean;
 import com.qf.entity.TUser;
 import com.qf.service.IcartService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
@@ -15,6 +16,7 @@ import java.util.UUID;
 
 @RestController
 public class CartController {
+
     @Autowired
     private IcartService cartService;
     /**

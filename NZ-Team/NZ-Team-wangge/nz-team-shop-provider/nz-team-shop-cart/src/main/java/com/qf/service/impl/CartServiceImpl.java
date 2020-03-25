@@ -10,17 +10,15 @@ import com.qf.util.StringUtil;
 import com.qf.vo.CartItem;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
-
-import javax.annotation.Resource;
 import java.util.*;
-
-@Service
+@Component
 public class CartServiceImpl implements IcartService {
     @Autowired
     private RedisTemplate redisTemplate;
 
-  @Resource
+    @Autowired
     private TProductMapper productMapper;
 
     @Override

@@ -6,15 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="nz-team-shop-consumer-search" />
         <module name="nz-team-shop-eureka-server" />
-        <module name="nz-team-shop-basic" />
         <module name="nz-team-shop-consumer-cart" />
         <module name="nz-team-shop-config" />
         <module name="nz-team-shop-dependecies" />
         <module name="nz-team-shop-entity" />
+        <module name="nz-team-shop-search" />
+        <module name="nz-team-shop-basic" />
+        <module name="nz-team-shop-mapper" />
         <module name="nz-team-shop-provider" />
         <module name="nz-team-shop-cart" />
-        <module name="nz-team-shop-mapper" />
         <module name="nz-team-shop-consumer" />
       </profile>
     </annotationProcessing>
@@ -27,6 +29,7 @@
       <module name="nz-team-shop-config" target="1.8" />
       <module name="nz-team-shop-consumer" target="1.5" />
       <module name="nz-team-shop-consumer-cart" target="1.8" />
+      <module name="nz-team-shop-consumer-search" target="1.8" />
       <module name="nz-team-shop-dependecies" target="1.8" />
       <module name="nz-team-shop-entity" target="1.5" />
       <module name="nz-team-shop-eureka-server" target="1.8" />
@@ -43,6 +46,7 @@
       <module name="nz-team-shop-config" options="-parameters" />
       <module name="nz-team-shop-consumer" options="" />
       <module name="nz-team-shop-consumer-cart" options="-parameters" />
+      <module name="nz-team-shop-consumer-search" options="-parameters" />
       <module name="nz-team-shop-dependecies" options="-parameters" />
       <module name="nz-team-shop-eureka-server" options="-parameters" />
       <module name="nz-team-shop-search" options="-parameters" />
