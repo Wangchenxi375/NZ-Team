@@ -34,6 +34,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583776921868" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -49,16 +55,16 @@
           <option name="name" value="StatusDashboardGroupingRule" />
         </RuleState>
       </list>
-        //
-        <list>
-            <RuleState>
-                <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-            </RuleState>
-            <RuleState>
-                <option name="name" value="StatusDashboardGroupingRule" />
-            </RuleState>
-        </list>
-        //
+      //
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+      //
     </option>
   </component>
   <component name="SvnConfiguration">
