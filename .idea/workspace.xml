@@ -49,6 +49,16 @@
           <option name="name" value="StatusDashboardGroupingRule" />
         </RuleState>
       </list>
+        //
+        <list>
+            <RuleState>
+                <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+                <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+        </list>
+        //
     </option>
   </component>
   <component name="SvnConfiguration">
